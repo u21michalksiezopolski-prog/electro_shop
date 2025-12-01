@@ -1,0 +1,76 @@
+=== 2025-11-24 20:01:01 ===
+To: test+local@example.com
+Subject: Test wiadomości
+Headers: From: Electro Shop <noreply@localhost>
+Content-Type: text/plain; charset=UTF-8
+Body:
+To jest test wiadomości z aplikacji.
+
+Sent: yes
+
+=== 2025-11-24 20:18:24 ===
+To: to@example.com
+Subject: Mailtrap test from app
+Headers: From: Electro Shop - Mailtrap Test <from@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Body:
+This is a test via app send_mail() using Mailtrap SMTP.
+
+Sent: yes
+
+=== 2025-11-25 08:36:51 ===
+To: sandbox-test@example.test
+Subject: Sandbox test from app
+Headers: From: Electro Shop - Mailtrap Test <from@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Body:
+<h1>Sandbox test</h1><p>This mail should appear in Mailtrap inbox.</p>
+
+Sent: yes
+
+=== 2025-11-25 08:41:55 ===
+To: sandbox-test2@example.test
+Subject: Sandbox test 2
+Headers: From: Electro Shop - Mailtrap Test <from@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Body:
+<p>Second sandbox test</p>
+
+Sent: yes
+
+=== 2025-11-25 09:42:32 ===
+To: info@electroshop.pl
+Subject: Nowe zamówienie #ORD-20251125-BF5AD10C
+Headers: From: Electro Shop - Mailtrap Test <from@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Body:
+Nowe zamówienie złożone.
+
+Dziełń,
+
+Dziękujemy za złożenie zamówienia. PoniŹej znajdują się szczegóły:
+
+Numer zamówienia: ORD-20251125-BF5AD10C
+Kwota: 16 003,77 zł
+Szczegóły zamówienia: http://localhost/elec/public/orders/15
+
+Pozdrawiamy,
+Electro Shop
+
+Sent: yes
+
+=== 2025-11-25 09:43:13 ===
+To: wik@w.pl
+Subject: Resetowanie hasła
+Headers: From: Electro Shop - Mailtrap Test <from@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Body:
+Aby zresetować hasło kliknij w link: http://localhost/elec/public/reset-password?email=wik%40w.pl&token=611d6acb452806d6a8953b6ea3036de8f77753fe44d28e1ac3d9db20fe4bfdd4
+
+Sent: yes
+
